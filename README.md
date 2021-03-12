@@ -104,3 +104,7 @@ The third problem that  I ran into is that sometimes the page fails to load comp
 
 **The CSV file contains multiple instances of the page failing to load.
 I ran this program a total of 3 times and sometimes pages would fail to load more often at certain hours of the day compared to others.
+
+**I have included two CSV files. One CSV file is the result of the program running on Thursday. It scraped 855 movies.
+The second CSV file is the result of the program running on Friday. Two movies must have been removed because it only scraped 853 links.
+As of Friday 3/12, the file named "metacritic_scrape" with 853 movies is the most accurate/up to date.**
